@@ -32,10 +32,3 @@ Je concois des applications web modernes, utiles et soignees, avec une attention
 - Localisation : Antananarivo, Madagascar
 
 ---
-
-Si tu veux, je peux aussi te preparer une version encore plus "GitHub profile README" avec :
-
-- un bloc de presentation plus visuel,
-- des badges discrets,
-- une section `Pinned projects`,
-- et des liens vers tes reseaux ou ton portfolio.
